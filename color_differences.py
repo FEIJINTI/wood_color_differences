@@ -9,7 +9,7 @@ import time
 
 t1 = time.time()
 # 读取图片
-img_path = 'data/rgb21.png'
+img_path = 'data/rgb69.png'
 img = cv2.imread(img_path)
 
 # 将图像resize为(2000, 500)
