@@ -4,7 +4,7 @@ import time
 
 # 读取图片
 start_time = time.time()
-img_path = r'C:\Users\FEIJINTI\OneDrive\PycharmProjects\wood_color_differences\data\rgb69.png'
+img_path = r'C:\Users\FEIJINTI\OneDrive\PycharmProjects\wood_color_differences\data\rgb8.png'
 img = cv2.imread(img_path)
 t2 = time.time()
 # 将图片转换成lab格式
